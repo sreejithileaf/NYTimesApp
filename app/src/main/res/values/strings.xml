@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NYTimes</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">NY Times App</string>
+    <string name="nav_header_subtitle">nytimes@times.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_about">About Us</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_messages">Messages</string>
+
+    <string name="ny_times_most_popular">NY Times News</string>
+    <string name="ok">OK</string>
+    <string name="something_wrong">Something went wrong</string>
+    <string name="about_message">This app shows latest news articles provided by NY Times.</string>
+</resources>
